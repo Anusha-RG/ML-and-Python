@@ -1,2 +1,2 @@
 # ML-and-Python
-Intern
+Workshop
